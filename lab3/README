@@ -1,0 +1,11 @@
+Both the insertion sort and the merge sort produce the correct output of the corresponding array values correctly.
+
+The output of "1 2 3 4 5" from the insertion sort was 4 comparisions. 0 swaps, & 5 copy operations.
+
+The output of "1 2 3 4 5" from the merge sort was 63 comparisions. 12 swaps, & 12 copy operations.
+
+ANALYSIS:
+
+In analysing the insertion sort algorithm, it is known that for the best case scenario of insertion sort, the time complexity is O(n), and for worst case, it is O(n^2). The average case would be inbetween O(n) & O(n^2).
+
+In analysing the merge sort algorithm, it is known that for the best case scenario of merge sort, the time complexity is Omega(n log n), and for worst and average case, it is also Omega (n^2).

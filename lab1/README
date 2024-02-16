@@ -1,0 +1,7 @@
+ 
+Everything works.
+
+Question 1 Answer: 
+
+
+You could write the mySort() function with the same signiture used in the lab by calling the betterSort function and using the number of elements within the array, along with the parameter 0 (which represents the start of the array) and the number of elements subtracted 1 (which represents the last element of the array). This way, the items of the array would be sorted from the start of index 0 and ending at the last index.

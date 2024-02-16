@@ -1,0 +1,14 @@
+Hamza Iqbal, 500973673, 02/01/2021
+
+Everything Works! I modified the towersMain.c file so that it could solve the problem free of bugs, and so that it would perform the algorithm properly for 
+3 arguements without going back to the "default case", and so that if the initial and final towers are the same, it would output an error.
+
+Q1: The first recursive call to towers(x,y,z) would be towers (4,2,1).
+
+Q2: 5 calls to towers() will be made before returning to the intial invocation.
+
+Q3: After the recursive call, the first disk will move from tower 2 to tower 3.
+
+Q4: The second recursive call would be towers (3,2,3).
+
+Q5: If towers (8,1,2) is called, there would be 255 lines printed to stdout

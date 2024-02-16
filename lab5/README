@@ -1,0 +1,44 @@
+Summarize your lab:
+
+  Part 1:
+     Works  No but the valid function does work, however the invalid does not.
+     
+  Part 2:
+     Works  No
+     
+  Part 3:
+     Works  No
+     
+***ANSWERS TO QUESTIONS***
+ Question 1:
+     Which hash table collision resolution method did you use
+     (eg. chaining or open addressing)? Explain your choice
+     briefly (less than 25 words).
+ YOUR ANSWER:
+ 
+ 
+ I was unable to answer this question since part 3 was not complete. However if were to use either, I would use the chaining method since it uses only a pointer to the repeating values that are entered, making it more convenient for collision handling.
+ 
+ Question 2:
+       Which hash function (division or multiplication) did you use?
+       How did you convert a string into a number?
+ YOUR ANSWER:
+
+ 
+ I was unable to answer this question since part 3 was not complete. 
+ 
+ Question 3:
+       Another legal XML tag not used in this lab is the
+       stand-alone tag.  This kind of tag
+       combines both a start-tag and end-tag in one.
+       It is identified with a '/' (slash) preceding the
+       final >.  (For example, the <foo/>
+       is a stand-alone tag that is self balancing.
+       
+       Describe briefly how
+       you would modify Part 3 to allow this kind of tag.
+       
+ YOUR ANSWER:
+
+I was unable to answer this question since part 3 was not complete.
+  
